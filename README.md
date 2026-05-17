@@ -37,7 +37,7 @@ devfolio-starter/
 ├── js/
 │   ├── main.js         # Core interactivity
 │   └── animations.js   # Scroll, parallax, tilt effects
-├── assets/             # Images & icons (add your own)
+├── assets/             # Images & icons 
 ├── CONTRIBUTING.md
 └── README.md
 ```
@@ -48,7 +48,7 @@ devfolio-starter/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/devfolio-starter.git
+   git clone https://github.com/duduboiii123/devfolio-starter.git
    cd devfolio-starter
    ```
 
@@ -95,7 +95,7 @@ Browse the [Issues tab](../../issues) and comment on one you'd like to work on. 
 
 ### Step 2: Fork & clone
 ```bash
-git clone https://github.com/YOUR_USERNAME/devfolio-starter.git
+git clone https://github.com/duduboiii123/devfolio-starter.git
 ```
 
 ### Step 3: Create a branch
