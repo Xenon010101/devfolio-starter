@@ -7,7 +7,7 @@ Thank you for your interest in contributing! This project is part of **GSSoC 202
 ## 🛠️ Local Setup
 
 1. Fork this repository
-2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/devfolio-starter.git`
+2. Clone your fork: `git clone https://github.com/duduboiii123/devfolio-starter.git`
 3. Open `index.html` in your browser or use VS Code's Live Server extension
 
 No build tools, no npm install — it's pure HTML/CSS/JS. ✅
